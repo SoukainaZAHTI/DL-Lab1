@@ -1,6 +1,6 @@
 # Deep Learning – Lab 1: MLPs with PyTorch (Regression and Multi-class Classification)
 
-**Université Abdelmalek Essaadi – FSTT – Département Génie Informatique – Master MBD**
+**Université Abdelmalek Essaadi – FSTT – Département Génie Informatique – Master SITBD**
 **Course:** Deep Learning – Pr. Elaachak Lotfi
 **Student:** Soukaina Zahti
 
